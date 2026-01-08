@@ -1,7 +1,23 @@
 {
-  "name": "my-v0-project",
+  "name": "recommendation",
   "version": "0.1.0",
   "private": true,
+  "description": "",
+  "homepage": "https://github.com/vaibhavsingh-materialplus/recommendation#readme",
+  "bugs": {
+    "url": "https://github.com/vaibhavsingh-materialplus/recommendation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavsingh-materialplus/recommendation.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
